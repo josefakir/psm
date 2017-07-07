@@ -1,0 +1,33 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+body{line-height:1}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+table{border-collapse:collapse;border-spacing:0}
+body{font-family:'Raleway',sans-serif}
+header{height:70px;background:#fff;position:fixed;width:100%;top:0;-webkit-box-shadow:7px 7px 10px 0 rgba(50,50,50,0.75);-moz-box-shadow:7px 7px 10px 0 rgba(50,50,50,0.75);box-shadow:7px 7px 10px 0 rgba(50,50,50,0.75);z-index:2}
+#carrusel{max-height:400px;overflow:hidden;position:relative;margin-top:70px;float:left;width:100%}
+#carrusel video{width:100%}
+#overlaycarrusel{background:#000;background:#000;width:100%;height:100%;display:block;position:absolute;top:0;opacity:.5}
+#overlaycarrusel h1{position:absolute;top:143px;display:block;color:#fff;font-size:33px;text-align:center}
+.parallax h2{position:absolute;top:143px;display:block;color:#fff;font-size:33px;text-align:center;width:100%;text-shadow:4px 4px 10px rgba(150,150,150,1)}
+#menu{float:right;margin-top:25px;font-size:14px}
+#menu li{float:left;margin-right:10px}
+#menu li a{color:#8F8F8F}
+#menu li a:hover{color:#00B7EB}
+#content{float:left;width:100%;margin-top:20px}
+.icono{background:#00B7EB;-webkit-border-radius:35px;-moz-border-radius:35px;border-radius:35px;width:70px;height:70px;display:block;color:#fff;margin:0 auto;text-align:center}
+.icono i{font-size:20px;margin:25px}
+.tac{text-align:center}
+h2{color:#5F5F5F;font-family:'Raleway',sans-serif;font-weight:700;margin:20px 0 14px}
+p{line-height:26px}
+.parallax{width:100%;height:400px;position:relative;background:url(../img/pattern.png)}
+.clear{clear:both}
+.h20{height:20px}
+.w90{width:90%;display:block;margin:20px auto}
+footer{background:#999;float:left;width:100%;padding:20px 0}
+footer a{color:#fff;font-size:12px;line-height:15px}
+footer ul{list-style:outside;padding-left:40px}
+.copy{color:#fff;font-size:12px}
+h2,h3,h4,h5{color:#00B7EB}
