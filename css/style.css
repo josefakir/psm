@@ -28,6 +28,7 @@ header{background: url(../img/pixelnegro.png); height: 130px; position: fixed; z
 .backheader{background: url(../img/b1.jpg) top center no-repeat;width: 100%;min-height: 668px;position: absolute; background-size: cover}
 .backheader.nosotros{background: url(../img/b3.jpg) !important; background-size: cover}
 .backheader.productos{background: url(../img/b4.jpg) !important; background-size: cover}
+.backheader.contacto{background: url(../img/b5.jpg) !important; background-size: cover}
 .slideprincipal{background: url(../img/pixelazul.png);width: 100%;margin-top: 130px;float: left;height: 538px;position: relative;}
 .slideprincipal h1{font-size: 55px; color: #fff;font-family: 'Lato', sans-serif; text-transform: uppercase;margin-top: 150px;}
 .slideprincipal p{font-size: 25px; color: #fff;font-family: 'Lato', sans-serif;}
