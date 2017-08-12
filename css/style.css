@@ -26,6 +26,8 @@ header{background: url(../img/pixelnegro.png); height: 130px; position: fixed; z
 #idioma img{width: 40px}
 
 .backheader{background: url(../img/b1.jpg) top center no-repeat;width: 100%;min-height: 668px;position: absolute; background-size: cover}
+.backheader.nosotros{background: url(../img/b3.jpg) !important; background-size: cover}
+.backheader.productos{background: url(../img/b4.jpg) !important; background-size: cover}
 .slideprincipal{background: url(../img/pixelazul.png);width: 100%;margin-top: 130px;float: left;height: 538px;position: relative;}
 .slideprincipal h1{font-size: 55px; color: #fff;font-family: 'Lato', sans-serif; text-transform: uppercase;margin-top: 150px;}
 .slideprincipal p{font-size: 25px; color: #fff;font-family: 'Lato', sans-serif;}
@@ -140,6 +142,25 @@ h2.nuestroequipo{font-family: 'Lato', sans-serif; color:#4d4d4d;text-align: cent
 #contentnosotros{float: left;width: 100%; padding: 50px 0}
 .lato{font-family: 'Lato', sans-serif;}
 .tac{text-align: center}
+
+#contentproductos{padding: 50px 0; float: left; width: 100%}
+.backnaranja{background:#ff6602; border: none}
+.producto h3{text-align: center}
+.producto .codigo{font-size: 12px; text-align: center; color: #ccc}
+#contentsingle{padding-top: 150px}
+article p{    line-height: 30px;}
+article a{color: #ff6602}
+article iframe{width: 100%; margin: 20px 0;}
+article img{width: 100%; display: block; margin: 20px auto}
+.credito{font-style: italic; color: #ccc; font-size: 12px; margin-bottom: 20px; display: block}
+.share{list-style: none; padding: 0}
+.share li{float: left; margin-right: 15px; font-size: 30px}
+.share li a.facebook{color: #3b5998}
+.share li a.twitter{color: #4099ff}
+.share li a.whatsapp{color: #34af23}
+.textocomparte{margin:0; color: #ccc}
+.sidebar a{color: #ff6602}
+
     @media only screen and (max-width : 1200px) {
        
     }
